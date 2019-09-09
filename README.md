@@ -1,2 +1,2 @@
 # hive_udf
-hive_udf by des Decrypt
+hive udf function by des Decrypt
